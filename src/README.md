@@ -3,7 +3,7 @@
 Student Numbers : 21110602, 21110092, 14014834, 18027527, 21087909 
 
 Instructions for Demo:
-1. Upload the un-zipped version of the zip file from Moodle to your Google Drive
+1. Upload the contents of the src folder to your Google Drive
 2. The command below will mount the drive to Colab and cd into the NLP directory, you may need to change the cd command below
 3. There are some wget's to get the model checkpoints
 This code repository contains all the code for our project on automatically neutralising sexist language. 
