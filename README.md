@@ -1,1 +1,1 @@
-# nswarawita-Automatic-Neutralisation-of-Sexist-Language
+# Automatic-Neutralisation-of-Sexist-Language
